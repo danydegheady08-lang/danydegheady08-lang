@@ -18,8 +18,8 @@ I take manual operational workflows (post-call writeups, financial reporting, ou
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AI Sales Assistant**](https://danydegheady08-lang.github.io/degheady-consulting-demos/sales-demo.html) | Converts post-call notes into follow-up emails and CRM summaries | Claude API, JS, Cloudflare Workers |
-| [**Financial Reporting AI**](https://danydegheady08-lang.github.io/degheady-consulting-demos/finance-demo.html) | Converts raw financial data into board-ready executive summaries | Claude API, JS, Cloudflare Workers |
+| [**AI Sales Assistant**](https://danydegheady08-lang.github.io/degheady-consulting-demos/sales_assistant_demo.html) | Converts post-call notes into follow-up emails and CRM summaries | Claude API, JS, Cloudflare Workers |
+| [**Financial Reporting AI**](https://danydegheady08-lang.github.io/degheady-consulting-demos/finance_reporting_demo.html) | Converts raw financial data into board-ready executive summaries | Claude API, JS, Cloudflare Workers |
 | [**Outreach Automation**](https://github.com/danydegheady08-lang/ai-sales-assistant) | Reads prospect CSV, drafts hyper-personalized cold emails, pushes to Gmail drafts via API | Node.js, Gmail API, Claude API |
 | [**API Proxy**](https://github.com/danydegheady08-lang/anthropic-proxy) | Cloudflare Worker that routes browser requests to Anthropic API with zero key exposure | Cloudflare Workers, Wrangler |
 
@@ -40,6 +40,13 @@ I take manual operational workflows (post-call writeups, financial reporting, ou
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white)
 ![Notion API](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
+
+**Automation**
+
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo.io-1A1A1A?style=flat-square&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 ---
 
