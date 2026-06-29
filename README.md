@@ -53,7 +53,6 @@ I take manual operational workflows (post-call writeups, financial reporting, ou
 ### Currently
 
 - Running client outreach across Europe and the US for Degheady Consulting
-- Looking for a working student role in GTM, RevOps, or AI tooling in Berlin
 - Building toward full outreach automation with Apollo + Make.com
 
 ---
@@ -63,3 +62,4 @@ I take manual operational workflows (post-call writeups, financial reporting, ou
 **[degheady-consulting-demos](https://danydegheady08-lang.github.io/degheady-consulting-demos/)** &nbsp;·&nbsp; [dany.degheady08@gmail.com](mailto:dany.degheady08@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/dany-degheady-a00495224)
 
 </div>
+
