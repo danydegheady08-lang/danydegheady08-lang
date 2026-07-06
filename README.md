@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dany+Degheady;I+build+AI+tools+for+B2B+teams;Mechatronics+%C3%97+AI+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dany+Degheady;Mechatronics+%C3%97+AI+Automation;Engineering+Student+%7C+Berlin" alt="Typing SVG" />
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ### What I do
 
-I'm a Mechatronics Engineering student at SRH Berlin running **Degheady Consulting** on the side — an AI automation practice for B2B sales and finance teams.
+Mechatronics Engineering student at SRH Berlin. I build AI automation tools as a learning project — everything here is something I built to understand how production systems actually work.
 
-I take manual operational workflows (post-call writeups, financial reporting, outreach) and replace them with custom AI pipelines built on Claude. Small teams, real output, no filler.
+I focus on the intersection of LLMs and real workflows: taking manual processes and replacing them with API-driven pipelines built on Claude, Cloudflare Workers, and no-code automation tools. Everything in this profile ships and runs.
 
 ---
 
@@ -52,8 +52,9 @@ I take manual operational workflows (post-call writeups, financial reporting, ou
 
 ### Currently
 
-- Running client outreach across Europe and the US for Degheady Consulting
-- Building toward full outreach automation with Apollo + Make.com
+- Mechatronics Engineering student at SRH Berlin
+- Building AI automation tools to learn the GTM and RevOps stack in production
+- Looking for a working student role in AI, automation, or GTM engineering in Berlin
 
 ---
 
