@@ -1,66 +1,60 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dany+Degheady;Mechatronics+%C3%97+AI+Automation;Engineering+Student+%7C+Berlin" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=210&section=header&text=Dany%20Degheady&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20automation%20for%20B2B%20sales%20and%20finance%20teams&descSize=18&descAlignY=60" alt="Dany Degheady" />
+
+<a href="https://github.com/danydegheady08-lang">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Mechatronics+Engineering+%40+SRH+Hochschule+Berlin;I+turn+call+notes+into+follow-ups+and+CRM+updates;I+turn+raw+finance+data+into+board-ready+summaries;Founder+of+Degheady+Consulting;Open+to+AI+automation+and+GTM+engineering+roles+in+Berlin" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/dany-degheady-farhat-a00495224"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dany@degheady.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://degheady.com"><img src="https://img.shields.io/badge/degheady.com-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Website" /></a>
 
 </div>
 
 ---
 
-### What I do
+## About
 
-Mechatronics Engineering student at SRH Berlin. I build AI automation tools as a learning project — everything here is something I built to understand how production systems actually work.
+Mechatronics Engineering student at SRH Hochschule Berlin, graduating March 2027. I build AI automation for B2B sales and finance teams and run it under **Degheady Consulting**. Everything below ships and runs.
 
-I focus on the intersection of LLMs and real workflows: taking manual processes and replacing them with API-driven pipelines built on Claude, Cloudflare Workers, and no-code automation tools. Everything in this profile ships and runs.
-
----
-
-### Live projects
+## What I build
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AI Sales Assistant**](https://danydegheady08-lang.github.io/degheady-consulting-demos/sales_assistant_demo.html) | Converts post-call notes into follow-up emails and CRM summaries | Claude API, JS, Cloudflare Workers |
-| [**Financial Reporting AI**](https://danydegheady08-lang.github.io/degheady-consulting-demos/finance_reporting_demo.html) | Converts raw financial data into board-ready executive summaries | Claude API, JS, Cloudflare Workers |
-| [**Outreach Automation**](https://github.com/danydegheady08-lang/ai-sales-assistant) | Reads prospect CSV, drafts hyper-personalized cold emails, pushes to Gmail drafts via API | Node.js, Gmail API, Claude API |
-| [**API Proxy**](https://github.com/danydegheady08-lang/anthropic-proxy) | Cloudflare Worker that routes browser requests to Anthropic API with zero key exposure | Cloudflare Workers, Wrangler |
+| **AI Sales Assistant** | Turns post-call notes into a follow-up email and a CRM summary | Claude API, JavaScript, Cloudflare Workers |
+| **Financial Reporting AI** | Turns raw financial data into a board-ready executive summary | Claude API, JavaScript, Cloudflare Workers |
+| **HubSpot to Claude pipeline** | Watches a HubSpot deal, sends the call notes to Claude, parses the JSON and writes a follow-up email and a deal risk flag back to the deal | Make.com, Claude API, HubSpot |
+| **Outreach Automation** | Reads a prospect CSV, researches each prospect, drafts a personalized email and queues it as a Gmail draft for human approval | Node.js, Gmail API, Claude API |
+| **API Proxy** | Cloudflare Worker that routes browser requests to the Anthropic API so no key sits in client-side code | Cloudflare Workers, Wrangler |
 
----
+## Work with me
 
-### Stack
+I am running **three free pilots** with small B2B sales and finance teams: one workflow, one week, one measurable result. In return I ask for short feedback and a testimonial if it saves you time. Message me on [LinkedIn](https://www.linkedin.com/in/dany-degheady-farhat-a00495224) to take a spot.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+I am also looking for a working student or internship role in AI automation or GTM engineering in Berlin.
 
-**AI / APIs**
-
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![Notion API](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
-
-**Automation**
-
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo.io-1A1A1A?style=flat-square&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-
----
-
-### Currently
-
-- Mechatronics Engineering student at SRH Berlin
-- Building AI automation tools to learn the GTM and RevOps stack in production
-- Looking for a working student role in AI, automation, or GTM engineering in Berlin
-
----
+## Stack
 
 <div align="center">
 
-**[degheady-consulting-demos](https://danydegheady08-lang.github.io/degheady-consulting-demos/)** &nbsp;·&nbsp; [dany.degheady08@gmail.com](mailto:dany.degheady08@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/dany-degheady-a00495224)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail API" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Apollo.io-0d1117?style=for-the-badge" alt="Apollo.io" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=110&section=footer" alt="" width="100%" />
