@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3d444d&height=210&section=header&text=Dany%20Degheady&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20automation%20for%20B2B%20sales%20and%20finance%20teams&descSize=18&descAlignY=60" alt="Dany Degheady" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3d444d&height=210&section=header&text=Dany%20Degheady&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20automation%20for%20B2B%20sales%20and%20finance%20teams&descSize=18&descAlignY=60" alt="Dany Degheady Farhat" />
 
 <a href="https://github.com/danydegheady08-lang">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=900&lines=Mechatronics+Engineering+%40+SRH+Hochschule+Berlin;I+turn+call+notes+into+follow-ups+and+CRM+updates;I+turn+raw+finance+data+into+board-ready+summaries;Founder+of+Degheady+Consulting;Open+to+AI+automation+and+GTM+engineering+roles+in+Berlin" alt="Typing animation" />
